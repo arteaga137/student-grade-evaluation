@@ -1,4 +1,4 @@
-**Assignment 1**
+# Assignment 1
 **Student Grades Evaluation 📚**
 
 This repository contains a JavaScript exercise that evaluates the performance of students based on their exam scores. It's the first assignment from the Javascript module of UpgradeHub's Full Stack Developer Bootcamp.
